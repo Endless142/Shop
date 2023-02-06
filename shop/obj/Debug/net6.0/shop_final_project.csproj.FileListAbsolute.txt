@@ -1,0 +1,34 @@
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\bin\Debug\net6.0\shop_final_project.exe
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\bin\Debug\net6.0\shop_final_project.deps.json
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\bin\Debug\net6.0\shop_final_project.runtimeconfig.json
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\bin\Debug\net6.0\shop_final_project.dll
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\bin\Debug\net6.0\shop_final_project.pdb
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.csproj.AssemblyReference.cache
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.AssemblyInfoInputs.cache
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.AssemblyInfo.cs
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.csproj.CoreCompileInputs.cache
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.dll
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\refint\shop_final_project.dll
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.pdb
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.genruntimeconfig.cache
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\ref\shop_final_project.dll
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AlexeyProtsenko\Desktop\Основы алгоритмизации и программирования\С#\shop_final_project\obj\Debug\net6.0\shop_final_project.csproj.CopyComplete
+C:\Users\Максим\Desktop\shop_final_project-main\bin\Debug\net6.0\shop_final_project.exe
+C:\Users\Максим\Desktop\shop_final_project-main\bin\Debug\net6.0\shop_final_project.deps.json
+C:\Users\Максим\Desktop\shop_final_project-main\bin\Debug\net6.0\shop_final_project.runtimeconfig.json
+C:\Users\Максим\Desktop\shop_final_project-main\bin\Debug\net6.0\shop_final_project.dll
+C:\Users\Максим\Desktop\shop_final_project-main\bin\Debug\net6.0\shop_final_project.pdb
+C:\Users\Максим\Desktop\shop_final_project-main\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.AssemblyInfo.cs
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.csproj.CopyComplete
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.dll
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\refint\shop_final_project.dll
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.pdb
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\shop_final_project.genruntimeconfig.cache
+C:\Users\Максим\Desktop\shop_final_project-main\obj\Debug\net6.0\ref\shop_final_project.dll
